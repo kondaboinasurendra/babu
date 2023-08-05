@@ -1,0 +1,79 @@
+.design{
+    border: 2px solid grey;
+    margin: 15px;
+    padding: 10px;
+    margin-left: 60px;
+        margin-right: 60px;
+    }
+    .design2{
+        border: 2px solid grey;
+        margin: 15px;
+        padding: 10px;
+        margin-left: 188px;
+            margin-right: 188px;
+            
+        }
+    .design1{
+        border: 2px solid green;
+        margin: 15px;
+        margin-left: 60px;
+        margin-right: 60px;
+        padding: 10px;
+        background-color: aquamarine;
+        }
+        .design3{
+                 margin: 15px;
+            margin-left: 116px;
+            margin-right: 50px;
+            
+            }
+            .page{
+                color: green;
+    
+            }
+            button{
+                width: 395px;
+                background-color: green;
+                color:white;
+                margin-left: 169px;
+                padding: 10px;
+            }
+        .input{
+            padding:0 10px;
+            margin: 10px 10px;
+            font-size: 16px;
+        }
+        h6{
+            margin: 0 10px;
+            margin-left: 25px;
+            
+            
+        }
+        .pum{
+            margin-left: 417px;
+        }
+        .size {
+            margin-left: -80px;
+            
+            
+        }
+        .pan{
+            margin: 70px;
+    
+        }
+        select{
+            width: 80px;
+            margin:5px;
+        }
+        p{
+            text-align: center;
+        }
+        .save{
+            color: green;
+            font-size: 25px;
+        }
+        .most{
+            color:green;
+            font-size: 18px;
+        }
+    
