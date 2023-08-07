@@ -4,11 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SurendraComponent } from './surendra/surendra.component';
+import { SuriComponent } from './suri/suri.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    SurendraComponent
+    SurendraComponent,
+    SuriComponent
   ],
   imports: [
     BrowserModule,
